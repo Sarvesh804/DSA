@@ -8,6 +8,7 @@ class student{
   string id;
   string name;
   int year;
+  int mobile_no;
   int contact;
   
   public:
